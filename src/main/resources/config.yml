@@ -1,0 +1,20 @@
+# SHAHMC default settings
+lobby:
+  world: "world"
+  x: 0.5
+  y: 64.0
+  z: 0.5
+  yaw: 0.0
+  pitch: 0.0
+  npc:
+    enabled: true
+    x: 1.5
+    y: 64.0
+    z: 1.5
+    yaw: 0.0
+    pitch: 0.0
+scoreboard:
+  title: "§6§lSHAHMC"
+  enabled: true
+welcome:
+  message: "§aبه سرور §6SHAHMC §aخوش آمدید!"
